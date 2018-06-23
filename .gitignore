@@ -1,0 +1,9 @@
+*
+!*.bash_history
+!*.bash_profile
+!*.gitconfig
+!*.gitignore
+!*.gitignore_global
+!*.kdiff3rc
+!*.NERDTreeBookmarks
+!*.vimrc
