@@ -1,6 +1,6 @@
 [user]
-	name = Thomas Barone
-	email = thomas.barone@spectraqest.com
+	name = thomasbarone
+	email = mail@tombarone.net
 [core]
     editor = gvim
 	excludesfile = /Users/tbone/.gitignore_global

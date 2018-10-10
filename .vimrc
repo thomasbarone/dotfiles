@@ -176,7 +176,7 @@ let g:Tex_TreatMacViewerAsUNIX = 1
 let g:Tex_ExecuteUNIXViewerInForeground = 1
 let g:Tex_ViewRule_ps = 'open -a Skim'
 let g:Tex_ViewRule_pdf = 'open -a Skim'
-let g:Tex_UseMakefile = 1
+"let g:Tex_UseMakefile = 1
 
 "***********************************************************************
 
